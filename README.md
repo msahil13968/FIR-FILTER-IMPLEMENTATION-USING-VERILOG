@@ -94,3 +94,4 @@ Verilog HDL, Icarus Verilog, Xilinx Vivado (simulation)
 
 ## Author
 Muhammad Sahil, M.Tech (Signal Processing and Machine Learning), NIT Jalandhar
+
